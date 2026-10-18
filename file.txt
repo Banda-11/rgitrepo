@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 First line in file.txt
+=======
+
+>>>>>>> 7add8cb3926b4696ec5097644c62c17015a2ef27
